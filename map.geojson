@@ -53,7 +53,6 @@
     "source-link":"https://lccn.loc.gov/rc01001392",
     "description":"\"In dividing the work into pages, it will be seen that in, cases where a building is but partially drawn on one page, it is given complete on the adjoining page. In view of the magnitude of the work, the originality of the idea, and the difficulties encountered in carrying it out, it is hoped that if any mistakes or errors have crept into the plates or pages, they will be looked upon with a lenient eye by an indulgent public.\" (Dry & Compton)"},
     "geometry":{"type":"Point","coordinates":[3237,2010]}}
-    ]}
 {"type":"Feature","properties":
  {"id":7,
   "chapter":"Rustam's Arms and Armour",
@@ -63,7 +62,6 @@
   "source-link":"https://lccn.loc.gov/rc01001392",
     "description":"\"In dividing the work into pages, it will be seen that in, cases where a building is but partially drawn on one page, it is given complete on the adjoining page. In view of the magnitude of the work, the originality of the idea, and the difficulties encountered in carrying it out, it is hoped that if any mistakes or errors have crept into the plates or pages, they will be looked upon with a lenient eye by an indulgent public.\" (Dry & Compton)"},
     "geometry":{"type":"Point","coordinates":[4971,7130]}}
-    ]}
  {"type":"Feature","properties":
     {"id":8,
     "chapter":"Sources",
@@ -73,7 +71,6 @@
     "source-link":"https://lccn.loc.gov/rc01001392",
     "description":"\"In dividing the work into pages, it will be seen that in, cases where a building is but partially drawn on one page, it is given complete on the adjoining page. In view of the magnitude of the work, the originality of the idea, and the difficulties encountered in carrying it out, it is hoped that if any mistakes or errors have crept into the plates or pages, they will be looked upon with a lenient eye by an indulgent public.\" (Dry & Compton)"},
     "geometry":{"type":"Point","coordinates":[1,1]}}
-    ]}
  {"type":"Feature","properties":
     {"id":9,
     "chapter":"Reference Guide",
