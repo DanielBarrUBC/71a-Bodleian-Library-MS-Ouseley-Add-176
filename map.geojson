@@ -2,7 +2,7 @@
   {"type":"Feature","properties":
     {"id":1,
     "chapter":"Introduction",
-    "zoom":1,
+    "zoom":2,
     "image":"",
     "source-credit":"",
     "source-link":"",
@@ -20,11 +20,11 @@
   {"type":"Feature","properties":
     {"id":3,
     "chapter":"Ulad Bound",
-    "zoom":4,
-    "image":"img/pictorial-st-louis-water-works.png",
-    "source-credit":"Source: StLouis-MO.gov",
-    "source-link":"https://www.stlouis-mo.gov/archive/neighborhood-histories-norbury-wayman/bissell/works4.htm  ",
-    "description":"\"...to the Water Works, a distance of about ten miles, on the river front;\""},
+    "zoom":3,
+    "image":"",
+    "source-credit":"",
+    "source-link":"",
+    "description":"\"“So Rustam paused till noon, then, having bound Ulad fast with the lasso, mounted Raksh” (Firdawsi 1010, 2: 59)\n\nUlad enters the story by confronting Rustam for tearing the ears off one of Ulad’s watchmen and setting Raksh loose amidst their crops. Unfortunately for him, Rustam proves the superior fighter and he slays Ulad’s company and takes him prisoner. Kidnapped, and bound by threat of violence to guide Rustam on his journey, Ulad is literally dragged into Rustam’s quarrel with the forces of Mazandaran (Firdawsi 1010, 2: 52-56). Here, he is depicted bound to the tree by Rustam’s lasso, wearing an expression of resignation – this is not the first time Ulad has found himself in this position and he betrays no sign of struggle. For his loyalty to Rustam, and guidance along the journey, Ulad will be rewarded with the Kingship of Mazandaran – though at this point in their quest Ulad seems to see his fate as a trial to be endured.\n\nFrom the Zoroastrian perspective, Ulad’s tale maybe considered one of penitence and absolution. The world is a microcosm of the cosmic war between Ahura Mazda and Ahriman and all actions benefit one or the other (Foltz 2010). By hindering Rustam’s righteous crusade against the Div’s of Mazandaran, Ulad has inadvertently abetted the forces of evil and Ahriman. Therefore, his capture and guidance serve to offset the accidental evil he committed and for this Ulad is rewarded.\n\nUlad’s capture may also have a political message. During the time of Firdowsi, the Arab conquest of Persia had seen a repression of Persian culture and language and the Shahnameh was part of the rekindling of Persian identity (Farhat-Holzman 2001). Taken in this light, Ulad may represent Persian identity in the face of an overpowering conqueror – after all, one day Rustam must return home and when he does Ulad will be King of Mazandaran.\""},
     "geometry":{"type":"Point","coordinates":[597,1605]}},
   {"type":"Feature","properties":
     {"id":4,
